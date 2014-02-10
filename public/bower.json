@@ -1,0 +1,23 @@
+{
+  "name": "api-counter",
+  "version": "0.0.1",
+  "homepage": "https://github.com/joaquindev/api-counter",
+  "authors": [
+    "joaquindev"
+  ],
+  "description": "This repo holds the code of an API that stores a counter for every /ID/ in its route",
+  "main": "index.html",
+  "keywords": [
+    "api",
+    "public"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

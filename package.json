@@ -1,0 +1,28 @@
+{
+  "name": "api-counter",
+  "version": "0.0.1",
+  "description": "This repo holds the code of an API that stores a counter for every /ID/ in its route",
+  "main": "web.js",
+  "scripts": {
+    "test": "make"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaquindev/api-counter.git"
+  },
+  "keywords": [
+    "api",
+    "counter",
+    "nodejs"
+  ],
+  "author": "joaquindev",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/joaquindev/api-counter/issues"
+  },
+  "dependencies": {
+    "http": "0.0.0",
+    "express": "~3.4.8",
+    "mongoose": "~3.8.6"
+  }
+}
